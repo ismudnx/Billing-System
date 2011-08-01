@@ -1,0 +1,73 @@
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.xml
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmCustomer.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Resources.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.vbproj.GenerateResource.Cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.xml
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmStock.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmBill.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmShowBill.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmMain.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmSetting.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmPrint.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\RdlCompile.cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\RdlCompile.compiled
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\bin\Debug\BillingSystem.application
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\BillingSystem\BillingSystem\obj\Debug\BillingSystem.application
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.xml
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmBill.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmCustomer.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmPrint.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmSetting.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmShowBill.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmStock.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmMain.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.Resources.resources
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.vbproj.GenerateResource.Cache
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\RdlCompile.cache
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\RdlCompile.compiled
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.application
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.xml
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Pictures\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.application
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.xml
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.application
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.xml
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmBill.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmCustomer.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmPrint.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmSetting.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmShowBill.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmStock.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmMain.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.Resources.resources
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.vbproj.GenerateResource.Cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\RdlCompile.cache
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\RdlCompile.compiled
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe.manifest
+C:\Users\ismu\Documents\Visual Studio 2008\Projects\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.application
+C:\Users\ismu\gitApps\Billing-System\ajmal BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\ismu\gitApps\Billing-System\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\ismu\gitApps\Billing-System\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.xml
+C:\Users\ismu\gitApps\Billing-System\ajmal BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
